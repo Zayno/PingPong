@@ -1,7 +1,7 @@
 # PingPong
 PingPong game, You vs AI
 
-![](ReadmeImages/ScreenShot.png)
+![PingPongGame](ReadmeImages/ScreenShot.png)
 
 
 Demo here:
